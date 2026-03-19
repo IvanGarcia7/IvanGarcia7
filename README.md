@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a dedicated computer engineer with a Ph.D. in
 - 🎓 Ph.D. in Computer Science.
 - 🌐 Passionate AI researcher and professional.
 - 👀 I’m interested in learning more about Computer Vision (Convolutional Neural and Generative Networks).
-- 💼 Researcher at the University of Málaga. PhD | AI Software Developer @ ICAI / ARQUIMEA.
+- 💼 Researcher at the University of Málaga. PhD | AI Software Developer @ ICAI .
 - 🚀 Specializing in improving object detection with CNNs and super-resolution techniques.
 
 If you have any questions, ideas, or potential collaborations in mind, please don't hesitate to reach out. 
